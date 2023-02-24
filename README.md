@@ -1,4 +1,5 @@
 # Surveillance System via SMS
+Dieses GitHub-Repository enthält ein Überwachungssystem, das den privaten Bereich schützt und Echtzeit-Benachrichtigungen per SMS sendet. Es ist ortunabhängig und erfordert einen Arduino mit WiFi, einen Bewegungssensor, eine LED und eine HW-Batterie 9V. Die Programmierung erfolgt durch die Arduino-Entwicklungsumgebung.
 
 <img alt="schönes Bild" src="pic/pic.png" width="400" height="240" >
 
