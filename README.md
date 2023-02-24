@@ -20,7 +20,7 @@ Dieses GitHub-Repository enthält ein Überwachungssystem, das den privaten Bere
   - HW-Batterie 9V
   
 - Programmirung
-  - Source code => [hier](/source/code.ino)
+  - Source code => [hier](source/code.ino)
   - IFTTT Acount und Trigger privte key
   
 <img alt="schönes Bild" src="pic/pic2.png" width="400" height="240" >
