@@ -17,7 +17,12 @@
   - HW-Batterie 9V
   
 - Programmirung
-  - source code => [hier](/source)
+  - Source code => [hier](surveillance.system/source)
   - IFTTT Acount und Trigger privte key
 
 ## Design
+- Design mit AutoCad (CAD)
+- Material: dicke Papier und Schrauben
+- Fertigstellung: Lasergerät
+- Oberer Teil: Sensor, Licht und Dekorform
+- Unterer Teil: Elektronik (Arduino)
